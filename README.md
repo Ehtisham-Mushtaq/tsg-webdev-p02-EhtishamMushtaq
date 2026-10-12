@@ -4,8 +4,8 @@ A responsive, single-page business landing page for a proposed software developm
 
 ## Project links
 
-- **Live website:** Add the deployed Vercel or Netlify URL here after deployment.
-- **GitHub repository:** Add the public repository URL here after publishing the source code.
+- **Live website:https://tsg-webdev-p02-ehtishammushtaq.vercel.app/**
+- **GitHub repository:https://github.com/Ehtisham-Mushtaq/tsg-webdev-p02-EhtishamMushtaq.git**
 
 ## Business concept
 
